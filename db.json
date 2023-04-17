@@ -1,0 +1,44 @@
+{
+  "user": [
+    {
+      "id": "abhi",
+      "name": "abhi",
+      "password": "1234",
+      "email": "abc@asf.saj",
+      "phone": "456",
+      "country": "india",
+      "address": "dghgc gd",
+      "gender": "male"
+    },
+    {
+      "id": "jenish",
+      "name": "dpsgje",
+      "password": "1234",
+      "email": "spdjg@wesdjg.sdg",
+      "phone": "345342",
+      "country": "india",
+      "address": "fgdg",
+      "gender": "male"
+    },
+    {
+      "id": "dhruv",
+      "name": "dhruv ",
+      "password": "1234",
+      "email": "abc@12.com",
+      "phone": "2304920",
+      "country": "india",
+      "address": "us",
+      "gender": "male"
+    },
+    {
+      "id": "demo",
+      "name": "pfgj",
+      "password": "12345",
+      "email": "sfdgo@dosigj.dg",
+      "phone": "3425",
+      "country": "india",
+      "address": "sdsdgpo",
+      "gender": "female"
+    }
+  ]
+}
